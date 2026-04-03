@@ -1,0 +1,35 @@
+
+.is-invalid {
+  border-color: rgba(239, 68, 68, 0.75); 
+}
+
+.invalid-feedback {
+  margin-top: 6px;
+  font-size: 12px;
+  color: #b42318;
+}
+.alert {
+  margin: 0 0 12px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  text-align: left;
+  font-size: 13px;
+  border: 1px solid rgba(239, 68, 68, 0.25);
+  background: rgba(254, 242, 242, 1);
+  color: #7a271a;
+}
+
+.success {
+  border: 1px solid rgba(22, 163, 74, 0.25);
+  background: rgba(240, 253, 244, 1);
+  color: #14532d;
+}
+
+.page-shell {
+  min-height: 100vh;
+  padding: 28px 16px;
+  background: #0b1020;
+  color: rgba(255, 255, 255, 0.92);
+}
+
+ 
